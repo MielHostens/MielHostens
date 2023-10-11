@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on dairy data analytics
+- 🌱 I’m currently learning how to use federated learning in dairy analytics
+- 👯 I’m looking to collaborate on all of the above
+- 💬 Ask me about cows
+- 📫 How to reach me: m.m.hostens@uu.nl, miel.hostens@ugent.be
+- 😄 Pronouns: ...
+- ⚡ Fun fact: i'm building a nice project on automated chicken hatching, check the Pincubator repo
+-->
+
+
 <!--
 **MielHostens/MielHostens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
